@@ -191,6 +191,20 @@ The primary remediation priorities are to eliminate SQL injection, enforce autho
 
 This report summarizes an educational penetration-testing exercise. Any further testing must remain within the explicitly authorized lab scope. Sensitive patient information, credentials, private staff records, and raw database backups must not be published in this repository.
 
+## 👤 Author
+
+This CyberLab was created and documented by **Adelino Sulude**
+for hands-on cybersecurity practice.
+
+**LinkedIn:** [Adelino Sulude](https://www.linkedin.com/in/adelino-sulude/)
+
+## 🙏 Credits
+
+The training and lab concepts were learned from:
+
+- **Waqas Karim** — Cybersecurity Professional, CCIE
+  - Instructor of the cybersecurity training used as a learning reference.
+  - **LinkedIn:** [Waqas Karim](https://www.linkedin.com/in/waqaskarim/)
 
 ## Disclaimer
 
